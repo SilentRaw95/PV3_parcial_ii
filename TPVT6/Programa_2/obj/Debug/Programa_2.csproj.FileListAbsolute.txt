@@ -1,0 +1,30 @@
+C:/Users/maike/Desktop/Escuela/Programacion 3/parcial_2/Programa_2/Programa_2/bin/Debug/Programa_2.exe.config
+C:/Users/maike/Desktop/Escuela/Programacion 3/parcial_2/Programa_2/Programa_2/bin/Debug/Programa_2.exe
+C:/Users/maike/Desktop/Escuela/Programacion 3/parcial_2/Programa_2/Programa_2/bin/Debug/Programa_2.pdb
+C:/Users/maike/Desktop/Escuela/Programacion 3/parcial_2/Programa_2/Programa_2/obj/Debug/Programa_2.csprojAssemblyReference.cache
+C:/Users/maike/Desktop/Escuela/Programacion 3/parcial_2/Programa_2/Programa_2/obj/Debug/Programa_2.Form1.resources
+C:/Users/maike/Desktop/Escuela/Programacion 3/parcial_2/Programa_2/Programa_2/obj/Debug/Programa_2.Properties.Resources.resources
+C:/Users/maike/Desktop/Escuela/Programacion 3/parcial_2/Programa_2/Programa_2/obj/Debug/Programa_2.csproj.GenerateResource.cache
+C:/Users/maike/Desktop/Escuela/Programacion 3/parcial_2/Programa_2/Programa_2/obj/Debug/Programa_2.csproj.CoreCompileInputs.cache
+C:/Users/maike/Desktop/Escuela/Programacion 3/parcial_2/Programa_2/Programa_2/obj/Debug/Programa_2.exe
+C:/Users/maike/Desktop/Escuela/Programacion 3/parcial_2/Programa_2/Programa_2/obj/Debug/Programa_2.pdb
+/Users/devs/Desktop/Escuela/Programacion 3/parcial_2/Programa_2/Programa_2/bin/Debug/Programa_2.exe.config
+/Users/devs/Desktop/Escuela/Programacion 3/parcial_2/Programa_2/Programa_2/bin/Debug/Programa_2.exe
+/Users/devs/Desktop/Escuela/Programacion 3/parcial_2/Programa_2/Programa_2/bin/Debug/Programa_2.pdb
+/Users/devs/Desktop/Escuela/Programacion 3/parcial_2/Programa_2/Programa_2/obj/Debug/Programa_2.csprojAssemblyReference.cache
+/Users/devs/Desktop/Escuela/Programacion 3/parcial_2/Programa_2/Programa_2/obj/Debug/Programa_2.Form1.resources
+/Users/devs/Desktop/Escuela/Programacion 3/parcial_2/Programa_2/Programa_2/obj/Debug/Programa_2.Properties.Resources.resources
+/Users/devs/Desktop/Escuela/Programacion 3/parcial_2/Programa_2/Programa_2/obj/Debug/Programa_2.csproj.GenerateResource.cache
+/Users/devs/Desktop/Escuela/Programacion 3/parcial_2/Programa_2/Programa_2/obj/Debug/Programa_2.csproj.CoreCompileInputs.cache
+/Users/devs/Desktop/Escuela/Programacion 3/parcial_2/Programa_2/Programa_2/obj/Debug/Programa_2.exe
+/Users/devs/Desktop/Escuela/Programacion 3/parcial_2/Programa_2/Programa_2/obj/Debug/Programa_2.pdb
+/Users/devs/Desktop/Escuela/Programacion 3/parcial_2/Algoritmos de ordenamiento/Programa_2/bin/Debug/Programa_2.exe.config
+/Users/devs/Desktop/Escuela/Programacion 3/parcial_2/Algoritmos de ordenamiento/Programa_2/bin/Debug/Programa_2.exe
+/Users/devs/Desktop/Escuela/Programacion 3/parcial_2/Algoritmos de ordenamiento/Programa_2/bin/Debug/Programa_2.pdb
+/Users/devs/Desktop/Escuela/Programacion 3/parcial_2/Algoritmos de ordenamiento/Programa_2/obj/Debug/Programa_2.csprojAssemblyReference.cache
+/Users/devs/Desktop/Escuela/Programacion 3/parcial_2/Algoritmos de ordenamiento/Programa_2/obj/Debug/Programa_2.Form1.resources
+/Users/devs/Desktop/Escuela/Programacion 3/parcial_2/Algoritmos de ordenamiento/Programa_2/obj/Debug/Programa_2.Properties.Resources.resources
+/Users/devs/Desktop/Escuela/Programacion 3/parcial_2/Algoritmos de ordenamiento/Programa_2/obj/Debug/Programa_2.csproj.GenerateResource.cache
+/Users/devs/Desktop/Escuela/Programacion 3/parcial_2/Algoritmos de ordenamiento/Programa_2/obj/Debug/Programa_2.csproj.CoreCompileInputs.cache
+/Users/devs/Desktop/Escuela/Programacion 3/parcial_2/Algoritmos de ordenamiento/Programa_2/obj/Debug/Programa_2.exe
+/Users/devs/Desktop/Escuela/Programacion 3/parcial_2/Algoritmos de ordenamiento/Programa_2/obj/Debug/Programa_2.pdb

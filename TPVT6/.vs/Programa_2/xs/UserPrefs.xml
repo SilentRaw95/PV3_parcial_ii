@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{D154FDA7-CD6E-4CC0-BD13-E3EEC19C3773}|Default">
+  <MonoDevelop.Ide.ItemProperties.Programa__2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Programa_2/Form1.Designer.cs">
+    <Files>
+      <File FileName="Programa_2/Form1.Designer.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

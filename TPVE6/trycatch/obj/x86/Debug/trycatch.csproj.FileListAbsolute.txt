@@ -1,0 +1,12 @@
+/Users/devs/Desktop/Escuela/Programacion 3/parcial_2/trycatch/trycatch/bin/Debug/trycatch.exe
+/Users/devs/Desktop/Escuela/Programacion 3/parcial_2/trycatch/trycatch/bin/Debug/trycatch.pdb
+/Users/devs/Desktop/Escuela/Programacion 3/parcial_2/trycatch/trycatch/obj/x86/Debug/trycatch.csprojAssemblyReference.cache
+/Users/devs/Desktop/Escuela/Programacion 3/parcial_2/trycatch/trycatch/obj/x86/Debug/trycatch.csproj.CoreCompileInputs.cache
+/Users/devs/Desktop/Escuela/Programacion 3/parcial_2/trycatch/trycatch/obj/x86/Debug/trycatch.exe
+/Users/devs/Desktop/Escuela/Programacion 3/parcial_2/trycatch/trycatch/obj/x86/Debug/trycatch.pdb
+/Users/devs/Desktop/Escuela/Programacion 3/parcial_2/TPVE6/trycatch/bin/Debug/trycatch.exe
+/Users/devs/Desktop/Escuela/Programacion 3/parcial_2/TPVE6/trycatch/bin/Debug/trycatch.pdb
+/Users/devs/Desktop/Escuela/Programacion 3/parcial_2/TPVE6/trycatch/obj/x86/Debug/trycatch.csprojAssemblyReference.cache
+/Users/devs/Desktop/Escuela/Programacion 3/parcial_2/TPVE6/trycatch/obj/x86/Debug/trycatch.csproj.CoreCompileInputs.cache
+/Users/devs/Desktop/Escuela/Programacion 3/parcial_2/TPVE6/trycatch/obj/x86/Debug/trycatch.exe
+/Users/devs/Desktop/Escuela/Programacion 3/parcial_2/TPVE6/trycatch/obj/x86/Debug/trycatch.pdb
