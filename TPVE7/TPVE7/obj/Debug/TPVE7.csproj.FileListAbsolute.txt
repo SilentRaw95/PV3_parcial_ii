@@ -1,0 +1,10 @@
+C:\Users\Home\Desktop\TPVE7\TPVE7\bin\Debug\TPVE7.exe.config
+C:\Users\Home\Desktop\TPVE7\TPVE7\bin\Debug\TPVE7.exe
+C:\Users\Home\Desktop\TPVE7\TPVE7\bin\Debug\TPVE7.pdb
+C:\Users\Home\Desktop\TPVE7\TPVE7\obj\Debug\TPVE7.csprojAssemblyReference.cache
+C:\Users\Home\Desktop\TPVE7\TPVE7\obj\Debug\TPVE7.Form1.resources
+C:\Users\Home\Desktop\TPVE7\TPVE7\obj\Debug\TPVE7.Properties.Resources.resources
+C:\Users\Home\Desktop\TPVE7\TPVE7\obj\Debug\TPVE7.csproj.GenerateResource.cache
+C:\Users\Home\Desktop\TPVE7\TPVE7\obj\Debug\TPVE7.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\TPVE7\TPVE7\obj\Debug\TPVE7.exe
+C:\Users\Home\Desktop\TPVE7\TPVE7\obj\Debug\TPVE7.pdb
