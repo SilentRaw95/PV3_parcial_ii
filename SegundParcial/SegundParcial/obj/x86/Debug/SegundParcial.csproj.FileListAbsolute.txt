@@ -1,0 +1,6 @@
+/Users/devs/Desktop/Escuela/Programacion 3/parcial_2/SegundParcial/SegundParcial/bin/Debug/SegundParcial.exe
+/Users/devs/Desktop/Escuela/Programacion 3/parcial_2/SegundParcial/SegundParcial/bin/Debug/SegundParcial.pdb
+/Users/devs/Desktop/Escuela/Programacion 3/parcial_2/SegundParcial/SegundParcial/obj/x86/Debug/SegundParcial.csprojAssemblyReference.cache
+/Users/devs/Desktop/Escuela/Programacion 3/parcial_2/SegundParcial/SegundParcial/obj/x86/Debug/SegundParcial.csproj.CoreCompileInputs.cache
+/Users/devs/Desktop/Escuela/Programacion 3/parcial_2/SegundParcial/SegundParcial/obj/x86/Debug/SegundParcial.exe
+/Users/devs/Desktop/Escuela/Programacion 3/parcial_2/SegundParcial/SegundParcial/obj/x86/Debug/SegundParcial.pdb
