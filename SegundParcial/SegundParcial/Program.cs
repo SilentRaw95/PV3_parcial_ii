@@ -93,7 +93,6 @@ namespace SegundParcial
                 {
                     Console.WriteLine("debes ingresar un numero");
                 }
-                Console.Read();
             }
         }
     }
