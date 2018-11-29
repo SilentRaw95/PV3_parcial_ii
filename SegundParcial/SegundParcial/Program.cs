@@ -33,54 +33,65 @@ namespace SegundParcial
                 Console.WriteLine("2) Leer");
                 Console.WriteLine("3) Salir");
                 Console.WriteLine("Opcion: ");
-                op = Convert.ToInt32(Console.ReadLine());
 
-                Console.WriteLine("");
-                switch (op){
-                    case 1:
-                        Console.WriteLine("Escribe: ");
-                        new Thread(new ThreadStart(ThreadJob)).Start();
-                        bottomText = Console.ReadLine();
-                        string file = "exam.txt";
-                        if (!File.Exists(file))
-                        {
-                            // Create a file to write to.
-                            using (StreamWriter sw = File.CreateText(file))
+                try
+                {
+                    op = Convert.ToInt32(Console.ReadLine());
+
+                    Console.WriteLine("");
+                    switch (op)
+                    {
+                        case 1:
+                            Console.WriteLine("Escribe: ");
+                            new Thread(new ThreadStart(ThreadJob)).Start();
+                            bottomText = Console.ReadLine();
+                            string file = "exam.txt";
+                            if (!File.Exists(file))
                             {
-                                sw.WriteLine(bottomText);
-                            }
-                        }
-                        else
-                        {
-                            using (StreamWriter sw = File.AppendText(file))
-                            {
-                                sw.WriteLine(bottomText);
-                            }
-                        }
-                        bottomText = "";
-                        break;
-                    case 2:
-                        string fileowo = "exam.txt";
-                        if (!File.Exists(fileowo))
-                        {
-                            Console.WriteLine("El archivo no existe aun escribe algo primero");
-                        } else {
-                            using (StreamReader sr = File.OpenText(fileowo))
-                            {
-                                string s = "";
-                                while ((s = sr.ReadLine()) != null)
+                                // Create a file to write to.
+                                using (StreamWriter sw = File.CreateText(file))
                                 {
-                                    Console.WriteLine(s);
+                                    sw.WriteLine(bottomText);
                                 }
                             }
-                            Console.WriteLine("termino el archivo");
-                        }
-                        break;
-                    case 3:
-                        break;
-                    default:
-                        Console.WriteLine("Opcion invalida");
-                        break;
+                            else
+                            {
+                                using (StreamWriter sw = File.AppendText(file))
+                                {
+                                    sw.WriteLine(bottomText);
+                                }
+                            }
+                            bottomText = "";
+                            break;
+                        case 2:
+                            string fileowo = "exam.txt";
+                            if (!File.Exists(fileowo))
+                            {
+                                Console.WriteLine("El archivo no existe aun escribe algo primero");
+                            }
+                            else
+                            {
+                                using (StreamReader sr = File.OpenText(fileowo))
+                                {
+                                    string s = "";
+                                    while ((s = sr.ReadLine()) != null)
+                                    {
+                                        Console.WriteLine(s);
+                                    }
+                                }
+                                Console.WriteLine("termino el archivo");
+                            }
+                            break;
+                        case 3:
+                            break;
+                        default:
+                            Console.WriteLine("Opcion invalida");
+                            break;
+                    }
+                }
+                catch (Exception e)
+                {
+                    Console.WriteLine("debes ingresar un numero");
                 }
                 Console.Read();
             }

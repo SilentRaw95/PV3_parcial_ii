@@ -1,8 +1,8 @@
 ﻿<Properties StartupConfiguration="{5A9130E1-7C25-459E-9815-E52B45BE6FF9}|Default">
-  <MonoDevelop.Ide.ItemProperties.SegundParcial PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.SegundParcial PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="SegundParcial/Program.cs">
     <Files>
-      <File FileName="SegundParcial/Program.cs" Line="1" Column="1" />
+      <File FileName="SegundParcial/Program.cs" Line="69" Column="18" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
